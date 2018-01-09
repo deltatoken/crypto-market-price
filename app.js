@@ -31,9 +31,7 @@ let isBinanceFetched = false;
 let isCoinMarketCapFetched = false;
 
 const configMsg = {
-  hello: 'สวัสดีครับ',
-  donate: 'อย่าลืม Donate ให้กำลังใจกันด้วยนะครับ'
-}
+  שלום רב לכם - וברוכים הבאים לדף השוואת  מחירי מטבעות דיגיטךיים של פבלו התותח
 
 global.schema = {
   name: null,
